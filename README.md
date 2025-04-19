@@ -1,6 +1,6 @@
 # Responsive Web Audio Metronome
 
-![alt tag](assets/img/screenshot.png)
+![alt tag](public/assets/img/screenshot.png)
 
 Using @cwilso's [HTML5 demo metronome](http://webaudiodemos.appspot.com/metronome/index.html) as a starting point, I added several features commonly seen in professional metronomes, including:
 
